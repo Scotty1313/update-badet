@@ -69,6 +69,12 @@ body {
   background-color: white;
 }
 
+.flag {
+  height: 1em;
+  width: 1.4em;
+}
+
+
 .red {
   color: var(--bs-red);
 }
